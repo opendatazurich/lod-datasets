@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the jupyter notebooks:
+Run the jupyter notebook:
 
 ```
 ./pyenv/bin/jupyter notebook
